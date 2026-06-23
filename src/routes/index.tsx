@@ -3,6 +3,7 @@ import { Nav } from "@/components/portfolio/Nav";
 import { Hero } from "@/components/portfolio/Hero";
 import { Services } from "@/components/portfolio/Services";
 import { PortfolioGrid } from "@/components/portfolio/PortfolioGrid";
+import { InteractiveTicker } from "@/components/portfolio/InteractiveTicker";
 import { Testimonials } from "@/components/portfolio/Testimonials";
 import { ThoughtsList } from "@/components/portfolio/ThoughtsList";
 import { CTA } from "@/components/portfolio/CTA";
@@ -36,6 +37,7 @@ function Index() {
         <Hero />
         <Services />
         <PortfolioGrid />
+        <InteractiveTicker />
         <Testimonials />
         <ThoughtsList />
         <CTA />
