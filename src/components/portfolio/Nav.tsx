@@ -57,7 +57,7 @@ export function Nav() {
           <img
             src="/logo-header.png"
             alt="huaR logo"
-            className="h-7 w-auto object-contain"
+            className="h-5 w-auto object-contain"
             style={{ filter: "invert(1)", mixBlendMode: "screen" }}
           />
         </Link>

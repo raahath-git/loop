@@ -98,7 +98,7 @@ export function Footer() {
           <img
             src="/logo.png"
             alt="huaR brand logo"
-            className="h-12 w-auto object-contain mix-blend-multiply"
+            className="h-8 w-auto object-contain mix-blend-multiply"
           />
         </Link>
 
